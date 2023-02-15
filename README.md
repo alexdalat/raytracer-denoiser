@@ -1,2 +1,3 @@
 # raytracer-denoiser
 
+![](image.png)
